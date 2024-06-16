@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing"  height="55" /><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4000&pause=1000&color=FC00FF&background=FFF51800&center=true&vCenter=true&random=false&width=750&height=40&lines=Ashok+Thakur+%7C+Full+Stack+Developer+%7C+Jedi+Knight"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing" height="55" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing"  height="55" /><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4000&pause=1000&color=FC00FF&background=FFF51800&center=true&vCenter=true&random=false&width=750&height=40&lines=Ashok+Thakur+%7C+Full+Stack+Developer"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing" height="55" />
 </p>
 
 ## About me:
@@ -83,4 +83,5 @@ Check out my [personal website](https://ashokchand.com) for more details.
 
 ---
 
+![](https://komarev.com/ghpvc/?username=ashokchand8998&color=FC00FF)
 <image src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" width="100%" />
