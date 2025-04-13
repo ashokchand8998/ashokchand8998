@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing" height="35" /><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4000&pause=1000&color=FC00FF&background=FFF51800&center=true&vCenter=true&random=false&width=700&height=30&lines=Ashok+Thakur+%7C+Full+Stack+Developer"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing" height="35" /><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4000&pause=1000&color=FC00FF&background=FFF51800&center=true&vCenter=true&random=false&width=700&height=30&lines=Ashok+%7C+Software+Developer"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bowing.png" alt="Man Bowing" height="35" />
 </p>
 
 ## About me:
