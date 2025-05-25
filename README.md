@@ -73,7 +73,7 @@
 
 ## 🚀 Projects
 ### Personal Website
-Check out my [personal website](https://ashokchand.com) for more details.
+Check out my [personal website](https://ashok-chand.dev) for more details.
 
 ---
 
